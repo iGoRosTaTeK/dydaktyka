@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(53, 197, 197);
+}
+#tulogo {
+    margin-bottom: 50px;
+    text-align: center;
+}
+#tuimie {
+    margin-right: 1400px;
+    float: left;
+}
+
+#dom {
+    float: left;
+}
+#druzyna {
+    float: left;
+    margin-right: 1200px;
+}
+#lubisz{
+    float: left;
+    
+}
+#eloelo{
+    float: left;
+    margin-left :1500px;
+
+}
+
+#karny{
+    float:left;
+    margin-left :1300px;
+}
+#wyslij{
+    float:left;
+    margin-left :400px;
+}
+#haslo{
+    
+}
